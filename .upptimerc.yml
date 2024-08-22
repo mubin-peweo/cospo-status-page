@@ -3,7 +3,7 @@ repo: cospo-status-page # The name of this repository
 
 sites:
   - name: Cospo Backend
-    url: http://194.42.98.6:8082
+    url: http://194.42.98.6:8082/cospo-status/check_backend_status
   - name: Cospo Admin Panel
     url: http://194.42.98.6:3003
   - name: Cospo Master DB
@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  theme: light
+  theme: jekyll-theme-minimal
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
