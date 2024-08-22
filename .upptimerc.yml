@@ -15,6 +15,10 @@ sites:
   - name: Cospo Redis Server
     url: http://194.42.98.6:8082/cospo-status/check_redis_status
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
