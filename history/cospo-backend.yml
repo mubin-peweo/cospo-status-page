@@ -1,7 +1,7 @@
 url: http://194.42.98.6:8082/cospo-status/check_backend_status
 status: up
 code: 200
-responseTime: 178
-lastUpdated: 2024-08-22T13:18:08.820Z
+responseTime: 185
+lastUpdated: 2024-08-22T13:25:47.149Z
 startTime: 2024-08-22T12:15:24.361Z
 generator: Upptime <https://github.com/upptime/upptime>
