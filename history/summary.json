@@ -22,19 +22,19 @@
     "url": "http://194.42.98.6:3003",
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-admin-panel",
-    "status": "up",
-    "uptime": "91.05%",
-    "uptimeDay": "90.51%",
-    "uptimeWeek": "91.05%",
-    "uptimeMonth": "91.05%",
-    "uptimeYear": "91.05%",
+    "status": "down",
+    "uptime": "90.75%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "90.75%",
+    "uptimeMonth": "90.75%",
+    "uptimeYear": "90.75%",
     "time": 221,
-    "timeDay": 234,
+    "timeDay": 236,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-08-23": 137
+      "2024-08-23": 142
     }
   },
   {
@@ -49,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 121,
+    "timeDay": 120,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
