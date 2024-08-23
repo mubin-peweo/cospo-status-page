@@ -1,7 +1,7 @@
 url: http://194.42.98.6:8082/cospo-status/check_first_slave_db_status
 status: up
 code: 200
-responseTime: 160
-lastUpdated: 2024-08-22T14:29:24.209Z
+responseTime: 110
+lastUpdated: 2024-08-22T23:14:41.541Z
 startTime: 2024-08-22T12:15:26.755Z
 generator: Upptime <https://github.com/upptime/upptime>
