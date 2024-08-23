@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-admin-panel",
     "status": "up",
-    "uptime": "91.93%",
-    "uptimeDay": "91.53%",
-    "uptimeWeek": "91.93%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "91.93%",
+    "uptime": "91.05%",
+    "uptimeDay": "90.51%",
+    "uptimeWeek": "91.05%",
+    "uptimeMonth": "91.05%",
+    "uptimeYear": "91.05%",
     "time": 221,
     "timeDay": 234,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-08-23": 123
+      "2024-08-23": 137
     }
   },
   {
