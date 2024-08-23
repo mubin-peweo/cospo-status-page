@@ -19,16 +19,25 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
+workflowSchedule:
+  graphs: "0/2 * * * *"
+  responseTime: "0/2 * * * *"
+  staticSite: "0/2 * * * *"
+  summary: "0/2 * * * *"
+  updateTemplate: "0/2 * * * *"
+  updates: "0/2 * * * *"
+  uptime: "0/2 * * * *"
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /cospo-status-page
+  # baseUrl: /cospo-status-page
   theme: night
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://raw.githubusercontent.com/mubin-peweo/cospo-status-page/gh-pages/cospo_logo.svg
   name: Cospo
-  customHeadHtml: "<title>Cospo Status</title>" # <----not working
+  # customHeadHtml: "<title>Cospo Status</title>" # <----not working
   js: "window.onload = function() { document.title='Cospo Status'}"
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
