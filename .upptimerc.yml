@@ -20,22 +20,23 @@ skipTopicsUpdate: true
 skipHomepageUpdate: true
 
 status-website:
-  workflowSchedule:
-    graphs: "0/2 * * * *"
-    responseTime: "0/2 * * * *"
-    staticSite: "0/2 * * * *"
-    summary: "0/2 * * * *"
-    updateTemplate: "0/2 * * * *"
-    updates: "0/2 * * * *"
-    uptime: "0/2 * * * *"
+  # workflowSchedule:
+  #   graphs: "0/2 * * * *"
+  #   responseTime: "0/2 * * * *"
+  #   staticSite: "0/2 * * * *"
+  #   summary: "0/2 * * * *"
+  #   updateTemplate: "0/2 * * * *"
+  #   updates: "0/2 * * * *"
+  #   uptime: "0/2 * * * *"
 
-  incidentHistory:
-    enabled: false
+  # incidentHistory:
+  #   enabled: false
 
   maintenance:
     enabled: true
     title: "Scheduled Maintenance"
     description: "We're performing scheduled maintenance. Sorry for the inconvenience!"
+
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
@@ -44,7 +45,7 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://raw.githubusercontent.com/mubin-peweo/cospo-status-page/gh-pages/cospo_logo.svg
   name: Cospo
-  customHeadHtml: "<title>Cospo Status</title>" # <----not working
+  customHeadHtml: "<title>Cospo Status</title>" # <----not working sometimes
   js: "window.onload = function() { document.title='Cospo Status'}"
   css: "section:last-of-type {display: none;}"
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
