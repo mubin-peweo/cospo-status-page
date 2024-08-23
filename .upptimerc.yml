@@ -19,14 +19,19 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
-workflowSchedule:
-  graphs: "0/2 * * * *"
-  responseTime: "0/2 * * * *"
-  staticSite: "0/2 * * * *"
-  summary: "0/2 * * * *"
-  updateTemplate: "0/2 * * * *"
-  updates: "0/2 * * * *"
-  uptime: "0/2 * * * *"
+# workflowSchedule:
+#   graphs: "0/2 * * * *"
+#   responseTime: "0/2 * * * *"
+#   staticSite: "0/2 * * * *"
+#   summary: "0/2 * * * *"
+#   updateTemplate: "0/2 * * * *"
+#   updates: "0/2 * * * *"
+#   uptime: "0/2 * * * *"
+
+maintenance:
+  enabled: true
+  title: "Scheduled Maintenance"
+  description: "We're performing scheduled maintenance. Sorry for the inconvenience!"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
