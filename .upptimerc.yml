@@ -19,6 +19,9 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
+incidentHistory:
+  enabled: false
+
 workflowSchedule:
   graphs: "0/2 * * * *"
   responseTime: "0/2 * * * *"
