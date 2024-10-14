@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 285,
-    "timeWeek": 235,
-    "timeMonth": 219,
-    "timeYear": 224,
+    "time": 226,
+    "timeDay": 321,
+    "timeWeek": 236,
+    "timeMonth": 224,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-admin-panel",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 224,
-    "timeDay": 291,
+    "uptimeYear": "99.81%",
+    "time": 225,
+    "timeDay": 320,
     "timeWeek": 237,
-    "timeMonth": 218,
-    "timeYear": 224,
+    "timeMonth": 223,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2024-08-23": 147
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 145,
+    "time": 115,
+    "timeDay": 162,
     "timeWeek": 120,
-    "timeMonth": 111,
-    "timeYear": 114,
+    "timeMonth": 113,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 145,
+    "time": 114,
+    "timeDay": 161,
     "timeWeek": 119,
-    "timeMonth": 111,
-    "timeYear": 113,
+    "timeMonth": 113,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 143,
+    "time": 115,
+    "timeDay": 162,
     "timeWeek": 119,
-    "timeMonth": 112,
-    "timeYear": 114,
+    "timeMonth": 114,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 145,
+    "time": 115,
+    "timeDay": 162,
     "timeWeek": 120,
-    "timeMonth": 112,
-    "timeYear": 114,
+    "timeMonth": 114,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   }
 ]
