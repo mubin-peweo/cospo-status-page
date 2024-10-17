@@ -4,9 +4,9 @@
     "url": "http://194.42.98.6:8082/cospo-status/check_backend_status",
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 220,
     "timeMonth": 215,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Cospo Admin Panel",
@@ -42,9 +44,9 @@
     "url": "http://194.42.98.6:8082/cospo-status/check_master_db_status",
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-master-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +55,18 @@
     "timeWeek": 112,
     "timeMonth": 109,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Cospo First Slave DB",
     "url": "http://194.42.98.6:8082/cospo-status/check_first_slave_db_status",
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-first-slave-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +75,18 @@
     "timeWeek": 112,
     "timeMonth": 108,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Cospo Second Slave DB",
     "url": "http://194.42.98.6:8082/cospo-status/check_second_slave_db_status",
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-second-slave-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +95,18 @@
     "timeWeek": 111,
     "timeMonth": 109,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   },
   {
     "name": "Cospo Redis Server",
     "url": "http://194.42.98.6:8082/cospo-status/check_redis_status",
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-redis-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +115,8 @@
     "timeWeek": 112,
     "timeMonth": 109,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 0
+    }
   }
 ]
