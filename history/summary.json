@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-backend",
     "status": "down",
-    "uptime": "13.33%",
+    "uptime": "13.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
+    "uptimeYear": "0.10%",
     "time": 224,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 185,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 117,
+      "2025-10-17": 116,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -379,8 +380,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 806
+      "2024-10-18": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-admin-panel",
     "status": "down",
-    "uptime": "22.99%",
+    "uptime": "22.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.51%",
+    "uptimeYear": "11.23%",
     "time": 219,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 210,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-10-16": 117,
+      "2025-10-17": 116,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -732,18 +733,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-master-db",
     "status": "down",
-    "uptime": "13.33%",
+    "uptime": "13.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
+    "uptimeYear": "0.10%",
     "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 95,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 117,
+      "2025-10-17": 116,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -1106,8 +1108,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 806
+      "2024-10-18": 1440
     }
   },
   {
@@ -1116,18 +1117,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-first-slave-db",
     "status": "down",
-    "uptime": "13.33%",
+    "uptime": "13.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
+    "uptimeYear": "0.10%",
     "time": 113,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 95,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 117,
+      "2025-10-17": 116,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -1490,8 +1492,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 806
+      "2024-10-18": 1440
     }
   },
   {
@@ -1500,18 +1501,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-second-slave-db",
     "status": "down",
-    "uptime": "13.33%",
+    "uptime": "13.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
+    "uptimeYear": "0.10%",
     "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 95,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 117,
+      "2025-10-17": 116,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -1874,8 +1876,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 806
+      "2024-10-18": 1440
     }
   },
   {
@@ -1884,18 +1885,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/194.42.98.6.ico",
     "slug": "cospo-redis-server",
     "status": "down",
-    "uptime": "13.33%",
+    "uptime": "13.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
+    "uptimeYear": "0.10%",
     "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 95,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 117,
+      "2025-10-17": 116,
+      "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
@@ -2258,8 +2260,7 @@
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
-      "2024-10-18": 1440,
-      "2024-10-17": 806
+      "2024-10-18": 1440
     }
   }
 ]
